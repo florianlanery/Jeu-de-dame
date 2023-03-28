@@ -1,0 +1,6 @@
+<html>
+<head>
+<script src="/brython()"></script>
+</head>
+<bodyonload="brython()">
+<script type="text/python">
